@@ -2,4 +2,6 @@
 
 **Era** Fracture
 
-The abyss story is an alternative take on the surface story, but set in the Fracture era, players are tasked with visiting the control towers to uncover the secret of the world and ultimately return to the surface proper.
+The Abyss Story can be seen as the sequel or an alternative future to the Surface Story, it takes place in a different domain structure all together where the player starts in the Abyss rather than on the surface.
+
+It would be targetted for veterans of the game who understand it's mechanics well enough.

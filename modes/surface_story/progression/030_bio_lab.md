@@ -4,13 +4,18 @@ __Arc__ 3
 
 __Tier__ Copper, Bronze
 
-With the [Midnight Lich](/docs/lore/mobs/midnight_lich.md) pacified and [Avione](/docs/lore/characters/avione.md) now available, the PC gains access to the Bio Laboratory or [Bio Lab](/docs/lore/world/domains/harmonia/structures/bio_lab.md).
+With the [Midnight Lich](/lore/mobs/midnight_lich.md) pacified and [Avione](/lore/characters/avione.md) now available, the PC gains access to the Bio Laboratory or [Bio Lab](/lore/world/domains/harmonia/structures/bio_lab.md).
 
 This arc covers the player's first experience with smelting, and general metal preparation.
 
 Bio Lab also introduces the player to more of the story and the research which had been performed by the Bio Laboratory team.
 
 However, before they can even enter the lab, they'll need to fix the power system by replacing the missing copper cables.
+
+## Prerequisites
+
+* Player has access to the Bio Lab Access Card and its fabrication
+* Player has access to stone tools to perform basic mining of copper and tin
 
 ## Flow
 

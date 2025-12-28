@@ -1,6 +1,6 @@
 # Lore - Mob - Mana Blade
 
-Mana Blade is a boss which appears in the [Mana Wave](/docs/modes/surface_story/progression/040_mana_blade.md) arc of the Surface Story.
+Mana Blade is a boss which appears in the [Mana Wave](/modes/surface_story/progression/040_mana_blade.md) arc of the Surface Story.
 
 As mana returned to the world of Harmonia, so did it return to his core, originally created as a defence against the spread of the mana plague, tasked with the difficult job of killing those that had gone insane, he roamed the world.
 
