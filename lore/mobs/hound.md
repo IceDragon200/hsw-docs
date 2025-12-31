@@ -1,5 +1,7 @@
 # Lore - Mob - HOUND
 
+__Class__ Mechanical, Hostile
+
 The foundry's guard dog, in charge of keeping the PAWN platform running smoothly.
 
 Note that HOUND itself is a distributed system like PAWN, and each foundry has its own HOUND.
@@ -19,10 +21,10 @@ flowchart LR
   hound --> fight & prove_control --> deactivated
 ```
 
-## Choice: Prove Control
+### Choice: Prove Control
 
 If the player had installed an access card with the control secret found in the Radio Tower, HOUND will be summoned, but will not be hostile to the player, thus ending the hostilities across all foundries.
 
-## Choice: Fight
+### Choice: Fight
 
 The player can also choose to fight HOUND and its PAWNs, upon defeat, Nori will offer to deactivate the HOUNDs remotely, this is a more permanent solution (in reality NORI will simply write the secret directly to the network, the player however will not know the secret).

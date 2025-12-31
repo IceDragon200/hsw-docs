@@ -1,5 +1,7 @@
 # Mechanic - Heat
 
+__Type__ Resource
+
 Heat is the general system for thermal handling.
 
 Heat ranges from negative to positive where negative values imply cold and positive implies hot.

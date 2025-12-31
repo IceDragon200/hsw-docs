@@ -1,5 +1,7 @@
 # Mechanic - Magic Tome
 
+__Type__ Item, Function
+
 Magic Tomes are old artifacts imbued with the mana from their former creators, by reciting and using a bit of mana yourself, you can cast the spell sealed into the old pages.
 
 Tomes have limited uses and will disintegrate when overused.

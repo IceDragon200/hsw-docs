@@ -1,5 +1,7 @@
 # Mechanic - Element Crafting
 
+__Type__ Function
+
 A infinite source of items and materials, Element Crafting allows the creation of items from [Element](../resources/element.md).
 
 However to balance this out, costs are usually absurdly high and element capacity is locked behind extremely expensive or difficult to obtain nanosuit upgrades.

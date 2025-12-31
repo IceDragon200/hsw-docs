@@ -1,5 +1,7 @@
 # Mechanic - Nyctophobia
 
+__Type__ Function
+
 Nyctophobia, or fear of the night causes the player to take damage during the night in low light levels.
 
 ## Lore

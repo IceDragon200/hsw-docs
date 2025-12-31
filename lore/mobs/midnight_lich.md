@@ -1,5 +1,7 @@
 # Lore - Mob - Midnight Lich
 
+__Class__ Undead
+
 The Midnight Lich is a boss mob that appears in the [Grave Callings](/modes/surface_story/progression/020_grave_callings.md) arc of the Surface Story.
 
 This mob is a [character](/lore/characters/avione.md).

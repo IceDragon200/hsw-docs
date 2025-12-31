@@ -1,5 +1,7 @@
 # Lore - Mob - Seniflora
 
+__Class__ Neutral, Tameable
+
 The Seniflora are a race of sentient flora, typically agricultural crops.
 
 Sporting little arms and legs and maininting their crop appearance, the Seniflora are blind and detect objects by their mana.

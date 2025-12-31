@@ -1,5 +1,7 @@
 # Lore - Mob - Dust Bunny
 
+__Class__ Apparition, Magical
+
 Odd apparitions that form when a spirit inhabits ME particulates.
 
 At their most harmless, Dust Bunnies run away from the PC and are more so an environmental indicator than a threat.
@@ -13,3 +15,7 @@ In rare situations, these bunnies can even cause element erosion, thankfully the
 Believed to be from a future timeline where magic had become advanced but highly volatile, the Dust Bunnies were a byproduct of the mana built up in these worlds.
 
 Unable to exit to the world tree and into the abyss, the accumulated memories of the spent mana gave mind to the ME thereby attracting a spirit to possess and animate it.
+
+## Resources
+
+* [Element Dust](../items/element_dust.md)

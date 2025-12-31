@@ -2,7 +2,7 @@
 
 __Recruit Code__ 862R51T0
 
-You, the player character, you have no name and are simply refered to as the PC internally for lore reasons.
+You, the player character, you have no name and are simply referred to as the PC internally for lore reasons.
 
 Characters in world also don't refer to you by a name.
 

@@ -1,4 +1,6 @@
-# Mechanic - Leather
+# Mechanic - Leather Making
+
+__Type__ Process
 
 ## Process
 
