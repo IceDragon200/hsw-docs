@@ -33,7 +33,7 @@ flowchart TD
   blend@{shape: tri, label: "Blend"}
   wash@{shape: tri, label: "Wash"}
 
-  ore --> break --> shards & ore
+  ore --> break --> shards & ore & grit
   grit & shards --> crush --> dust
   enriched_shards & shards --> shard_smelt --> bloom --> crack --> lump & slag
   slag --> dirty_crush --> grit & dirty_dust
