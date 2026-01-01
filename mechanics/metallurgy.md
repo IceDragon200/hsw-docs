@@ -19,16 +19,16 @@ flowchart TD
   tool_parts["Tool Parts"]
   plate["Plate"]
 
-  break<"Break">
-  crack<"Crack">
-  crush<"Crush">
-  dirty_crush<"Crush">
-  dirty_smelt<"Dirty Smelt">
-  shard_smelt<"Shard Smelt">
-  shape<"Shape">
-  cast<"Cast">
-  enrich<"Enrich">
-  blend<"Blend">
+  break@{shape: tri, label: "Break"}
+  crack@{shape: tri, label: "Crack"}
+  crush@{shape: tri, label: "Crush"}
+  dirty_crush@{shape: tri, label: "Crush"}
+  dirty_smelt@{shape: tri, label: "Dirty Smelt"}
+  shard_smelt@{shape: tri, label: "Shard Smelt"}
+  shape@{shape: tri, label: "Shape"}
+  cast@{shape: tri, label: "Cast"}
+  enrich@{shape: tri, label: "Enrich"}
+  blend@{shape: tri, label: "Blend"}
 
   ore --> break --> shards & ore
   grit & shards --> crush --> dust
