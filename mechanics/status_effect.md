@@ -14,4 +14,18 @@ Players and entities typically share the same status effects, but nodes can also
 
 ## List
 
+* [Acute Mana Poison](status_effects/acute_mana_poison.md)
+* [Blind](status_effects/blind.md)
+* [Burn](status_effects/burn.md)
+* [Burnbite](status_effects/burnbite.md)
+* [Cold](status_effects/cold.md)
+* [Deaf](status_effects/deaf.md)
+* [EMP](status_effects/emp.md)
+* [Feeble](status_effects/feeble.md)
+* [Frail](status_effects/frail.md)
+* [Frostbite](status_effects/frosbite.md)
+* [Intoxicated](status_effects/intoxicated.md)
+* [Mana Poison](status_effects/mana_poison.md)
+* [Paralysis](status_effects/paralysis.md)
 * [Poison](status_effects/poison.md)
+* [Sleep](status_effects/sleep.md)
