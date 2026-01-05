@@ -6,4 +6,4 @@ Brewing involves a fluid component and culture component to produce some other f
 
 That's the abstract description, but in reality, put fluid in: get alcohol out tends to stick the landing more.
 
-Brewing is primarily done with the [Aging Barrel](../devices/aging_barrel.md).
+Brewing is primarily done with the [Aging Barrel](/devices/aging_barrel.md).

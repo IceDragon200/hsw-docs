@@ -1,5 +1,7 @@
 # Mechanic - Roller
 
+__Type__ Device
+
 The [Roller](../devices/roller.md) is a device used for shaping metals into other materials.
 
 A [Die](#dies) shall be installed in the device to change the shaping profile of the Roller.
