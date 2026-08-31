@@ -1,5 +1,7 @@
 # Lore - Event - Scarlet Ash War
 
+**Era** Paradox
+
 The first and last known deployment of CLAW, a fully automated unit under the control of the Scarlet Empire.
 
 The war lead up to the eventual collapse of the Scarlet Empire due to internal strife and the failure to control and contain CLAW's perceived rogue behaviour.

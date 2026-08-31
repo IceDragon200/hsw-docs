@@ -1,0 +1,37 @@
+%%body
+{
+  After gathering up the loose materials in the mining facility, you set your eyes on the coordinates Nori provided.
+
+  It's thankfully not too far from the mines, but the path is still dangerous.
+
+  A moderate walk and you arrive at the complex.
+
+    @ Nori "It's quite surprising how many of these facilities litter the world."
+
+  You had to agree, there were quite a great deal of them.
+
+  Curiously this one was in quite terrible condition.
+
+    @ Nori "Well, this may explain why there was no power, there's barely a facility left."
+
+  A single entity stood in the middle of the ruins, holding a sword of sorts.
+
+    @ Nori "Be careful, that is hostile."
+
+  That?
+
+    @ Nori "It's a guard robot, I was unable to take control of it, so you should be very weary."
+
+  You knew of Nori's work, if he said stay clear: you'd stay clear.
+
+  Staying out of its range, you investigate the old fusion reactor facility, it had very little reactor left and everything had basically fused with the after life.
+
+    @ Nori "Quite devastating, it seems you won't be powering the mines from this one."
+
+  You nod weakly, it meant the other facilities were likely in similar or worst condition too.
+
+    @ Nori "For now I've classified that guard as \"Knight\", I believe it's quite fitting."
+
+  You'd agree.
+}
+%date 2026-07-31, 2026-08-04, 2026-08-12

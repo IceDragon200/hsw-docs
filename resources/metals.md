@@ -1,6 +1,7 @@
 # Metals
 
-* Aluminum
+* [Abyssal Iron](metals/abyssal_iron.md)
+* Aluminium
 * Brass
 * Bronze
 * Carbon Steel

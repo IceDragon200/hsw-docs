@@ -1,0 +1,21 @@
+%%body
+{
+  A message appears on your HUD, as per usual you open it to Nori's usual check-in.
+
+    @ Nori "I have news."
+
+  News, just news?
+
+    @ Nori "The Radio Tower picked up another unusual signal, normally Harmonia's surface is stable."
+
+  Yeah, normally, except since you arrived.
+
+    @ Nori "Precisely, ever since you've appeared the world has been progressing, it's both a good and ominous situation, but I thought you'd like to know this time as it involves magic, wooden golems have been appearing."
+
+  Golems?
+
+    @ Nori "Don't get your hopes up, they're small, not particularly strong at the moment, but I figured you'd want to know about that."
+
+  You were curious and took your new steel tools along to investigate.
+}
+%date 2026-08-15

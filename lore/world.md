@@ -1,6 +1,6 @@
 # Lore - World
 
-Due to engine limitations in Luanti, domains are treated as seperate layers on the y-axis.
+Due to engine limitations in Luanti, domains are treated as separate layers on the y-axis.
 
 We have a whole 16 bits to work with after all (65k nodes from bottom to top, plenty of y-space).
 

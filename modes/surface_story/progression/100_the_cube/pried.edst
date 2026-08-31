@@ -1,0 +1,26 @@
+%%body
+{
+  Wrenching the maintenance panel with your Abyssal-Iron crowbar granted you access to the cube of a structure.
+
+  Trotting along happily through the narrow pathways, Nori had been quiet, more than likely doing his usual scans.
+
+  Arriving in what appeared to be the maintenance room, you throw yourself in the chair to catch your breath.
+
+    @ Nori "This facility is indeed without power, several power plants used to power the facilities, but they have all shutdown, no surprises there."
+
+  Absolutely none, but it sounded like you weren't in the right place to begin with.
+
+    @ Nori "No, we are in the right place, I was able to uplift the coordinates to the power plant that powered this location."
+
+  That was good news, but... what good was that going to do you?
+
+    @ Nori "A quick visit and investigation should give us a better picture, and maybe find us what we need."
+
+  You could get behind that, but first, you'd like to explore the floor.
+
+    @ Nori "Oh certainly, I agree, we can investigate the accessible parts of the mine, it may have useful materials."
+
+  May.
+
+}
+%date 2026-07-31, 2026-08-04

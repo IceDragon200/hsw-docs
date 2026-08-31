@@ -10,6 +10,6 @@ Now stranded in a broken world, cue the title, Harmonia.
 
 ## Lore Timeline
 
-The surface story was the original and primary mode intended for the overall game, as of such it was based around the "pre-paradox" timeline initially, after some modifications here and there, it moved to a "paradox" era story, but incorporates elements from "fracture", I suppose technically its a fracture story set in the paradox timeline,  which works.
+The surface story was the original and primary mode intended for the overall game, as of such it was based around the "pre-paradox" timeline initially, after some modifications here and there, it moved to a "paradox" era story, but incorporates elements from "fracture", I suppose technically it's a fracture story set in the paradox timeline, which works.
 
 If you have no idea what any of that means, then don't worry about it, this is more so a note for IceDragon200, than you, he'll know what it means.

@@ -2,7 +2,7 @@
 
 **Era** Emergent
 
-Also known as LLM (not to be confused with Large Language Models), Llama Core Tek specialized only one field: stuff that goes boom.
+Also known as LLM (not to be confused with Large Language Models) or just Llama, Llama Core Tek specialized only one field: stuff that goes boom.
 
 High explosive, cluster bombs, rocket launchers, grenades, mortar, and general explosive ballistics, Llama Core Tek was in the top three of "war" focused companies of its Era, only second to the Azeros.
 

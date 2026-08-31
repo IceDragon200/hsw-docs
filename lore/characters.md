@@ -2,10 +2,13 @@
 
 * [Alexander](characters/alexander.md)
 * [Alkemi](characters/alkemi.md)
+* [Avione](characters/avione.md)
 * [Belle](characters/belle.md)
 * [Hime](characters/hime.md)
+* [I9](characters/i9.md)
 * [Jay](characters/jay.md)
 * [Mallow](characters/mallow.md)
+* [Nerma](characters/nerma.md)
 * [Nori](characters/nori.md)
 * [Olyx](characters/nori.md)
 * [Paragrim](characters/paragrim.md)

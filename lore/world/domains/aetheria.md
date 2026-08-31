@@ -8,4 +8,4 @@ __Class__ Hostile, Cold Temperature
 
 A shell world, deep underground and covered in massive vents from the surface of Harmonia.
 
-Aetheria is below Harmonia, riddled with long wind tunnels and deep darkness it can be difficult to navigate unprepared, however it is home to exotic resources not found in Harmonia or it's underground.
+Aetheria is below Harmonia, riddled with long wind tunnels and deep darkness it can be difficult to navigate unprepared, however it is home to exotic resources not found in Harmonia or its immediate underground.

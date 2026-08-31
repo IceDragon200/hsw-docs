@@ -4,7 +4,7 @@ __Class__ Apparition, Hostile
 
 An apparition mob which appears when the player has not rested in several days, in universe it is explained as accumulated errors given form by the overworked Ouroboros System which cannot directly control what is happening around it.
 
-Lavinu will routinely spawn wielding a spear, but can wield other weapons as well.
+Kavinu will routinely spawn wielding a spear, but can wield other weapons as well.
 
 ## Spawn Conditions
 

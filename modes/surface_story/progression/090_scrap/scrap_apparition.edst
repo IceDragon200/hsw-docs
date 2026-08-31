@@ -1,0 +1,50 @@
+%%body
+{
+  Sightseeing seems to be your continuos task, but you are interrupted by the sight of a tall figure seemingly repairing one of the Scrap Materializers.
+
+  Approaching it carefully, they put the final touches on the device and it once more ticks to live producing scrap.
+
+    @ Figure "Unusual, spirit wearing flesh of clothing."
+
+  You pause as they turn to face you, and raise to their full height, towering over you in the process, their body upon closer inspection appears to be made from the scrap, sparks of energy dances between the gaps as they lift their tools to repair an unresponsive arm.
+
+    @ Figure "Pete's the name, engineer by trade, apparition by circumstance, like you."
+
+  You raise a brow and growl under your breath.
+
+    @ Pete "Life has a way of punching down I'm afraid, what brings you to Derelik?"
+
+  Derelict?
+
+    @ Pete "Oh, you seem confused, then do tell how you arrived here?"
+
+  You make your usual squeaks and sighed audibly.
+
+    @ Pete "I see your condition wasn't without its issues, I am accusing you of anything, I was curious as to how you came to be."
+
+    @ Nori "Greetings."
+
+    @ Pete "Ah... Machine Zaonith Nori."
+
+    @ Nori "I'm surprised you are aware of my-wait zaonith, what title is that!?"
+
+    @ Pete "Oh, are you mayhaps a different Nori... maybe before your ascension?"
+
+    @ Nori "If so, my prospects sound... impressive."
+
+    @ Pete "They are, but seeing as you are with this apparition, you are deeply lacking in knowledge."
+
+    @ Nori "I'm afraid we are, my friend here is still finding their way around."
+
+  Pete finishes fixing his arm and flexes it once.
+
+    @ Pete "Introductions aside, if you have anything I'd be happy to share my curation of scrap with you, you can also just pick up any loose scrap blocks around."
+
+    @ Nori "Yeah, we made the mistake to dropping one once."
+
+    @ Pete "Quite the pain to harvest yeah?"
+
+  Yourself and Nori groan in unison at the memory of the difficult to harvest block, the Ouroboros system did not like it.
+
+}
+%date 2026-07-31

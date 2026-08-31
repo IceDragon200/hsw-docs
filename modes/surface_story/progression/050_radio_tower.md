@@ -15,7 +15,7 @@ This is the only arc with no mandatory conflicts and is primarily focused on the
 ## Flow
 
 * Player can mine iron and iron ores with their Bronze tier tools now
-* Players are encouraged to get iron tools to gain access the Radio Towers
+* Players are encouraged to get iron tools to gain access to the Radio Towers
 * Once in the Radio Tower, the player climbs to the top from the maintenance floor below it
 * Nori informs the player that the source of the contamination is none other than the Celestial Tower
 * The player returns to the Celestial Tower and checks the basement floor where a portal is revealed

@@ -6,7 +6,7 @@
 
   You halt in your footsteps.
 
-    @ Figure "Are are the librarian, former Maphir members."
+    @ Figure "We are the librarian, former Maphir members."
 
   Unable to speak, you tilt your head.
 
@@ -22,13 +22,13 @@
 
   You've seen this playbook before and raise a finger in protest.
 
-    @ Figure "Indeed, many labelled us a cult, we had taken a liking to it, if it meant educating those that failed to understand magic as whole, the Kamdanian monks did not agree, but we did not resort to violence."
+    @ Figure "Indeed, many labelled us a cult, we had taken a liking to it, if it meant educating those that failed to understand magic as a whole, the Kamdanian monks did not agree, but we did not resort to violence."
 
   At least there is some silver lining.
 
     @ Figure "As you've likely discovered, the world's life has been all but extinguished, or rather, we exist in a world far from the former."
 
-  You raise a brow in questioning and the figure only waves their hand in dismiss.
+  You raise a brow in questioning and the figure only waves their hand in dismissal.
 
     @ Figure "For now, the goddess has not forsaken this world, but she has a heavy thumb upon the scale, we'd like to tip it."
 
@@ -56,9 +56,9 @@
 
     @ Figure "Machine god Nori, it is an honour."
 
-  The figure bowed to me and smiled.
+  The figure bowed to you and smiled.
 
-    @ Nori "I'll fill my friend on, no need to exhaust yourself apparition."
+    @ Nori "I'll fill my friend in, no need to exhaust yourself apparition."
 
     @ Figure "You have my thanks."
 

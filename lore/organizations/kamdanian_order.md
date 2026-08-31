@@ -10,4 +10,4 @@ What better place to avoid the disruption of the abyss, than in the abyss itself
 
 Ironically they had the correct idea, while the surface worlds became disturbed and unstable, those in the lower abyss remained oddly untouched.
 
-Kamdanians aim for purity that a life of mana without entropy, they do not reject the mana of the abyss, but rather aim not to pollute it which could lead to instability.
+Kamdanians aim for purity: a life of mana without entropy, they do not reject the mana of the abyss, but rather aim not to pollute it which could lead to instability, however as a result their personalities may appear muted or dull to outsiders.
